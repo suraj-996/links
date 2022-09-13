@@ -1,13 +1,13 @@
 body {
   font-family: "Baloo 2", cursive;
   font-size: 10pt;
-  background-image: url(./images/bg.jpg);
+  background-image: url(./images/.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
   background-size: cover;
   color: brown;
-  background-color: #f9da88;
+  background-color: #ffffff;
   overflow: hidden;
   width: 100vw;
   height: 100vh;
